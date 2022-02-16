@@ -1,3 +1,5 @@
+(https://github-readme-stats.vercel.app/api?username=younixue3&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @YouNixue3
 - 👀 I’m interested in Multi-Platform Languange
 - 🌱 I’m currently learning Vue JS & Django Rest Framework
