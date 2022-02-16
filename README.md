@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younixue3&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younixue3&show_icons=true&theme=dark)
 
 - 👋 Hi, I’m @YouNixue3
 - 👀 I’m interested in Multi-Platform Languange
