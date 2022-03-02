@@ -1,9 +1,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younixue3&show_icons=true&theme=tokyonight)
 
 - 👋 Hi, I’m @YouNixue3
-- 👀 I’m interested in Multi-Platform Languange
-- 🌱 I’m currently learning Vue JS & Django Rest Framework
-- 💞️ I’m looking to collaborate with Everybody
+- 👀 I’m interested in Multi-Platform Language
+- 🌱 I’m currently learning Laravel 9 & Advance Flutter
+- 💞️ I’m looking to collaborate with Everyone
 - 📫 How to reach me E-mail me : bussiness.needs.rctka@gmail.com or my Instagram : @ricko.tiaka
 
 <!---
