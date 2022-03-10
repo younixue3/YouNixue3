@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younixue3&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=younixue3&show_icons=true&theme=tokyonight)
 
 - 👋 Hi, I’m @YouNixue3
 - 👀 I’m interested in Multi-Platform Language
