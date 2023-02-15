@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=younixue3&show_icons=true&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=younixue3&layout=compact&card_width=495&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=younixue3&hide=html&layout=compact&card_width=495&show_icons=true&theme=transparent)
 
 - 👋 Hi, I’m @YouNixue3, My Real name is Ricko Tiaka
 - 👀 I’m interested in Multi-Platform Language
