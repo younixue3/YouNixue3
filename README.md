@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @YouNixue3, My Real name is Ricko Tiaka
 - 👀 I’m interested in Multi-Platform Language
-- 🌱 I’m currently learning Golang & Vue JS Multi-Platform
+- 🌱 I’m currently learning Next Js & Svelte Js
 - 💞️ I’m looking to collaborate with Everyone
 - 📫 How to reach me E-mail me : bussiness.needs.rctka@gmail.com or my Instagram : @ricko.tiaka
 
