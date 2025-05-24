@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=younixue3&hide=html,css,php&layout=compact&card_width=495&show_icons=true&theme=transparent)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=younixue3&theme=transparent&hide_border=false)<br/>
 
-- 👋 Hi, I’m @YouNixue3, My Real name is Ricko Tiaka
+- 👋 Hi, I’m @YouNixue3, My Real name is Ricko Caesar Aprilla Tiaka
 - 👀 I’m interested in Multi-Platform Language
 - 🌱 I’m currently learning Odoo Framework & Astro Js
 - 💞️ I’m looking to collaborate with Everyone
