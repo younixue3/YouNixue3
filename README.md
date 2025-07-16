@@ -2,8 +2,8 @@
 
 ## 💻 Fullstack Developer | Odoo Developer | Laravel, Django & React Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=rickotiaka&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/rickotiaka?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=younixue3&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/younixue3?style=social)
 
 ---
 
