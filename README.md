@@ -1,19 +1,42 @@
-<!---![](https://github-readme-stats.vercel.app/api?username=younixue3&show_icons=true&theme=transparent)--->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=younixue3&hide=html,css,php&layout=compact&card_width=495&show_icons=true&theme=transparent)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=younixue3&theme=transparent&hide_border=false)<br/>
+# 👋 Hi there, I'm Ricko Caesar Aprilla Tiaka
 
-- 👋 Hi, I’m @YouNixue3, My Real name is Ricko Caesar Aprilla Tiaka
-- 👀 I’m interested in Multi-Platform Language
-- 🌱 I’m currently learning Odoo Framework & Astro Js
-- 💞️ I’m looking to collaborate with Everyone
-- 📫 How to reach me E-mail me : bussiness.needs.rctka@gmail.com or my Instagram : @ricko.tiaka
+## 💻 Fullstack Developer | Odoo Developer | Laravel, Django & React Enthusiast
 
-<!---
-YouNixue3/YouNixue3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-limegreen.svg?style=for-the-badge&logo=django) ![Vue.Js](https://img.shields.io/badge/vue.js-seagreen.svg?style=for-the-badge&logo=vue.js) ![React.Js](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSql](https://img.shields.io/badge/PostgreSql-003545?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=rickotiaka&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/rickotiaka?style=social)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+---
+
+### 🧠 About Me
+
+I’m a passionate developer from Samarinda, Indonesia 🇮🇩  
+I enjoy building real-world applications using modern tech like **Laravel**, **Django**, and **React**.  
+Over the past 5+ years, I’ve worked on projects ranging from startup platforms, government systems, to community portals.
+
+- 🔭 Currently building: SiPenggaji, Scaleup CMS Framework, Management Systems
+- 🌱 Currently learning: Golang and IoT
+- 💼 Worked with: Government, local SMEs, startups
+- 💬 Ask me about: Laravel, Django, React, CKAN
+- 🌐 Blog: [itsme-ricko.vercel.app](https://itsme-ricko.vercel.app/)
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/ricko-caesar-aprilla-tiaka-191095200/)
+
+---
+
+### 💻 Tech Stack
+
+#### 🧩 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-white.svg?style=flat&logo=react&logoColor=black)
+
+#### 🔧 Backend
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![CKAN](https://img.shields.io/badge/CKAN-blueviolet.svg?style=flat&logo=data&logoColor=white)
