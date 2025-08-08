@@ -14,7 +14,7 @@ I enjoy building real-world applications using modern tech like **Laravel**, **D
 Over the past 5+ years, I’ve worked on projects ranging from startup platforms, government systems, to community portals.
 
 - 🔭 Currently building: SiPenggaji, Scaleup CMS Framework, Management Systems
-- 🌱 Currently learning: Golang and IoT
+- 🌱 Currently learning: Golang and Lynx JS
 - 💼 Worked with: Government, local SMEs, startups
 - 💬 Ask me about: Laravel, Django, React, CKAN
 - 🌐 Blog: [itsme-ricko.vercel.app](https://itsme-ricko.vercel.app/)
